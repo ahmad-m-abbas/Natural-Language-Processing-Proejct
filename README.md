@@ -26,7 +26,7 @@ If you use this code or dataset in your research, please cite our paper:
 ```
 @article{abbas2021enhancing,
   title={Enhancing Subjectivity Detection with Transformer-Based Models: A Case Study with RoBERTa on English News Articles},
-  author={Abbas, Ahmad and Mutan, Huthayfa},
+  author={Abbas, Ahmad},
   journal={Proceedings of the International Conference on Natural Language Processing and Machine Learning},
   year={2021}
 }
